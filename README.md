@@ -1,3 +1,2 @@
-# dbms_project-yamini-
-   my first project
-   
+# Social Media Information Aggregator-
+   creating Database and tables related to it.
